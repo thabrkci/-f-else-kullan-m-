@@ -7,7 +7,7 @@ class Program
     static void Main(string[] args)
     {
         int time = DateTime.Now.Hour;
-        if(time>6 && time<12)
+        if(time>6 && time<12)//saat 6'dan sonra ise ve 12'den önce ise Günaydın Diyecektir.
         Console.WriteLine( "Günaydin!");
         else if(time<= 18)
         Console.WriteLine("İyi Günler!");
