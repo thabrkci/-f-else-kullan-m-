@@ -1,5 +1,5 @@
 Herkese selam,
-İf else kullanımıda dair çok küçük bir örnekle bilgimizi tazelemiş olalım.
+İf else kullanımına dair çok küçük bir örnekle bilgimizi tazelemiş olalım.
 Yorum satırlarında gerekli açıklamaları bulabilirsiniz.
 Değerli vaktinizi harcadığınız için teşekkür ederim.
 -----------------------------------------------------
