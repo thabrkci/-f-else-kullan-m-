@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Taha\\OneDrive\\Masaüstü\\İf-else kullanımı\\İf-else kullanımı.csproj",
+      "projectUniqueName": "C:\\Users\\Taha\\OneDrive\\Masaüstü\\PTK\\İf-else kullanımı\\İf-else kullanımı.csproj",
       "projectName": "İf-else kullanımı",
-      "projectPath": "C:\\Users\\Taha\\OneDrive\\Masaüstü\\İf-else kullanımı\\İf-else kullanımı.csproj",
+      "projectPath": "C:\\Users\\Taha\\OneDrive\\Masaüstü\\PTK\\İf-else kullanımı\\İf-else kullanımı.csproj",
       "packagesPath": "C:\\Users\\Taha\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Taha\\OneDrive\\Masaüstü\\İf-else kullanımı\\obj\\",
+      "outputPath": "C:\\Users\\Taha\\OneDrive\\Masaüstü\\PTK\\İf-else kullanımı\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -67,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
       }
     }
   }
